@@ -1,0 +1,28 @@
+.card {
+  background: beige;
+  width: 500px;
+  border: 2px solid #d4a373;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 24px 16px;
+}
+
+.card .profile-img {
+  width: 140px;
+  height: 200px;
+}
+
+.card .info {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: #d4a373;
+  margin-left: 18px;
+}
+
+.card h2 {
+  margin-top: 0px;
+}
+
+.card p {
+  margin-bottom: 0px;
+}
